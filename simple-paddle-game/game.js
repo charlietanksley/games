@@ -36,7 +36,7 @@ var ball,
     paddle_speed,
     score;
 
-paddle_speed = 5;
+paddle_speed = 10;
 score = 0;
 
 
